@@ -35,4 +35,4 @@ https://github.com/md-rejoyan-islam/Simple-todo-app-using-JavaScript
 
 ## Live Preview
 
-[Click Here to Previwe](https://github.com/md-rejoyan-islam/Simple-todo-app-using-JavaScript)
+[Click Here to Previwe](https://md-rejoyan-islam.github.io/Simple-todo-app-using-JavaScript/)
