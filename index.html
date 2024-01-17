@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets//css/styel.css" />
+    <title>To Do App</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="head">
+        <h2 id="title">To-Do App</h2>
+      </div>
+      <div class="task-add">
+        <form id="form">
+          <div>
+            <label for="task">Add New Task</label>
+            <input type="text" id="task" name="task" />
+          </div>
+          <input id="submit_btn" type="submit" value="Add Task" />
+        </form>
+      </div>
+      <div class="result-show">
+        <div class="incompleted-task">
+          <div class="title">
+            <h3>Incompleted Tasks</h3>
+            <hr />
+          </div>
+          <ul id="incompleted-task-list">
+            <!-- <li>
+              <label> <input type="checkbox" />Task Name </label>
+            </li> -->
+          </ul>
+        </div>
+        <div class="completed-task">
+          <div class="title">
+            <h3>Completed Tasks</h3>
+            <hr />
+          </div>
+          <div class="task-list">
+            <ul id="completed-task-list">
+              <!-- <li>
+                <span> Task Name </span>
+                <button class="delete-btn">Delete</button>
+              </li> -->
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="./assets/js/app.js"></script>
+  </body>
+</html>
