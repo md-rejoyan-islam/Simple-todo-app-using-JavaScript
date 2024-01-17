@@ -1,3 +1,7 @@
+<center>
+<h1>Simple TODO app using JavaSCript </h1>
+</center>
+
 ## Overview
 
 This simple todo app allows you to create, manage, and delete tasks. It's built using JavaScript (ES6 classes), HTML5, and CSS, and it utilizes LocalStorage to persist tasks across sessions.
@@ -25,6 +29,12 @@ This simple todo app allows you to create, manage, and delete tasks. It's built 
 
 Tasks are automatically saved to LocalStorage whenever a change is made. This means your tasks will persist even if you close the browser or refresh the page.
 
+## Clone Repository
+
+```javascript
+https://github.com/md-rejoyan-islam/Simple-todo-app-using-JavaScript
+```
+
 ## Live Preview
 
-[Click Here to Previwe][https://github.com/md-rejoyan-islam/Simple-todo-app-using-JavaScript]
+[Click Here to Previwe](https://github.com/md-rejoyan-islam/Simple-todo-app-using-JavaScript)
