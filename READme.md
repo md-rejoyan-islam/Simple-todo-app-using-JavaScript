@@ -1,6 +1,4 @@
-<center>
-<h1>Simple TODO app using JavaSCript </h1>
-</center>
+# Simple TODO app using JavaSCript
 
 ## Overview
 
